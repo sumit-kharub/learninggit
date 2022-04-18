@@ -1,0 +1,49 @@
+*{
+    font-family: 'Hurricane', cursive;
+}
+
+header{
+    display:flex;
+justify-content: space-between;
+align-items: center;
+}
+ul{
+    display: flex;
+width: 10rem;
+}
+.main_image{
+    width: 100%;
+    height: auto;
+}
+.footer_parent{
+    height: 5rem;
+    background-color: black;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.footer_content{
+    color: white;
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+
+}
+.parent{
+    display: flex;
+    margin-top: 2rem;
+    text-align: center;
+justify-content: space-evenly;
+}
+li{
+    list-style: none;
+    
+}
+div ul{
+    display: flex;
+justify-content:space-between ;
+align-items: center;
+
+
+}
+  
